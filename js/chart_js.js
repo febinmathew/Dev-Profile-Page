@@ -16,7 +16,7 @@ window.chartColors = {
     return Math.round(Math.random() * 100);
   };
   
-  var now = moment();
+//   var now = moment();
 //   var dataTime1 = moment("2016-12-18T14:58:54.026Z");
 //   var dataTime2 = moment("2017-01-18T20:58:54.026Z");
 //   var dataTime3 = moment("2017-02-15T08:58:54.026Z");
