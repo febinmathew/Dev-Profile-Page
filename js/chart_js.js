@@ -29,7 +29,7 @@ window.chartColors = {
     type: 'radar',
     data: {
       labels: [
-        "NodeJs", "Angular 7","ExpressJs","javascript","PostgreSQL", "Firebase","Android Native", "Java" ],
+        "NodeJs", "Angular 7","ExpressJs","javascript","PostgreSQL", "Firebase","Flutter", "Java" ],
       datasets: [
     //       {
     //     label: label1,
@@ -44,7 +44,7 @@ window.chartColors = {
         backgroundColor: color(window.chartColors.blue).alpha(0.2).rgbString(),
         borderColor: window.chartColors.blue,
         pointBackgroundColor: window.chartColors.blue,
-        data: [10,7,9,9,8,9,10,9],
+        data: [10,7,9,9,8,9,8,9],
         notes: ["Worked on many android projects including our flagship project - AroundMe Social Media",
         "Worked on the backend for AroundMe App","none","none","none","Was late one day","Just broke up"]
       },
